@@ -1,0 +1,9 @@
+node_modules
+
+compile
+
+.DS_Store
+
+.vscode
+
+*.env*
